@@ -1,8 +1,6 @@
 # BepInEx Presets - A GitHub based Mod Loader for Lethal Company
 
 ![BepInEx Logo](https://avatars2.githubusercontent.com/u/39589027?s=256)
-![Lethal Company Logo]([https://avatars2.githubusercontent.com/u/39589027?s=256](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamah.com%2Fwp-content%2Fuploads%2F2023%2F10%2FLethal-Company.jpg&f=1&nofb=1&ipt=4963cd3518e10516f0b96346b5d741f38a9df022b2f612072f6a8febffe0aad4&ipo=images))
-
 
 ## Usage:
 
@@ -25,23 +23,4 @@ Feel free to reach out if you have any questions or need further assistance!
 | Main        | - Vanilla                              |
 | Basic   | - MoreCompany                              |
 |             | - MoreEmotes                              |
-| Expanded   | - MoreCompany                               |
-|             | - MoreEmotes                               |
-|             | - LateCompany                             |
-|             | - LC API                             |
-|             | - ReservedItemSlotCore                         |
-|             | - ReservedFlashlightSlot                             |
-|             | - ReservedWalkieSlot                             |
-|             | - AdditionalSuits                             |
-|             | - HookGenPatcher                             |
-|             | - LethalLib                             |
-|             | - LethalThings                             |
-|             | - LateGameUpgrades                             |
-|             | - Mimics                             |
-|             | - Skinwalkers                             |
-|             | - ShipLoot                             |
-|             | - LethalExpansion                             |
-|             | - MoreItems                           |
-|             | - MoreSuits                             |
-|             | - TooManySuits                             |
-|             | - PushCompany                             |
+| Expanded   | - MoreCompany - MoreEmotes - LateCompany - LC API - ReservedItemSlotCore - ReservedFlashlightSlot - ReservedWalkieSlot - HookGenPatcher - LethalLib - LethalThings - LateGameUpgrades - Mimics - SkinWalkers - ShipLoot - MoreItems - MoreSuits - TooManySuits - PushCompany|
