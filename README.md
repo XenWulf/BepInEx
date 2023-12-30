@@ -17,10 +17,11 @@
 
 Feel free to reach out if you have any questions or need further assistance!
 
+### Current Branch: **Main**
+
 ## Branches:
 | Branch Name | List of Mods                           |
 |-------------|----------------------------------------|
 | Main        | - Vanilla                              |
-| Basic   | - MoreCompany                              |
-|             | - MoreEmotes                              |
+| Basic   | - MoreCompany - MoreEmotes|
 | Expanded   | - MoreCompany - MoreEmotes - LateCompany - LC API - ReservedItemSlotCore - ReservedFlashlightSlot - ReservedWalkieSlot - HookGenPatcher - LethalLib - LethalThings - LateGameUpgrades - Mimics - SkinWalkers - ShipLoot - MoreItems - MoreSuits - TooManySuits - PushCompany|
