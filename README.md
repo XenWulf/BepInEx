@@ -1,4 +1,4 @@
-# BepInEx - A GitHub based Mod Loader
+# BepInEx Presets - A GitHub based Mod Loader for Lethal Company
 
 ![BepInEx Logo](https://avatars2.githubusercontent.com/u/39589027?s=256)
 
@@ -17,29 +17,11 @@
 
 Feel free to reach out if you have any questions or need further assistance!
 
+### Current Branch: **Expanded**
+
 ## Branches:
 | Branch Name | List of Mods                           |
 |-------------|----------------------------------------|
 | Main        | - Vanilla                              |
-| Basic   | - MoreCompany                              |
-|             | - MoreEmotes                              |
-| Expanded   | - MoreCompany                               |
-|             | - MoreEmotes                               |
-|             | - LateCompany                             |
-|             | - LC API                             |
-|             | - ReservedItemSlotCore                         |
-|             | - ReservedFlashlightSlot                             |
-|             | - ReservedWalkieSlot                             |
-|             | - AdditionalSuits                             |
-|             | - HookGenPatcher                             |
-|             | - LethalLib                             |
-|             | - LethalThings                             |
-|             | - LateGameUpgrades                             |
-|             | - Mimics                             |
-|             | - Skinwalkers                             |
-|             | - ShipLoot                             |
-|             | - LethalExpansion                             |
-|             | - MoreItems                           |
-|             | - MoreSuits                             |
-|             | - TooManySuits                             |
-|             | - PushCompany                             |
+| Basic   | - MoreCompany - MoreEmotes|
+| Expanded   | - MoreCompany - MoreEmotes - LateCompany - LC API - ReservedItemSlotCore - ReservedFlashlightSlot - ReservedWalkieSlot - HookGenPatcher - LethalLib - LethalThings - LateGameUpgrades - Mimics - SkinWalkers - ShipLoot - MoreItems - MoreSuits - TooManySuits - PushCompany|
